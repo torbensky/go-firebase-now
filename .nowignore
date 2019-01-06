@@ -1,0 +1,10 @@
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+.vscode
+*.md
+*.test
+*.out
+*._test.go
